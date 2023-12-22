@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://ontonomics.com/es/bitcoin/2023-12-21/</loc>
+      <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2023-12-21/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2023-12-21/"
+                  />
+    </url>
+  
+    <url>
       <loc>https://ontonomics.com/es/bitcoin/</loc>
-      <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+      <lastmod>2023-12-21T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -14,6 +29,21 @@
                   rel="alternate"
                   hreflang="es"
                   href="https://ontonomics.com/es/bitcoin/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/</loc>
+      <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/"
                   />
     </url>
   
@@ -29,21 +59,6 @@
                   rel="alternate"
                   hreflang="es"
                   href="https://ontonomics.com/es/bitcoin/2023-12-19/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://ontonomics.com/es/</loc>
-      <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://ontonomics.com/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="es"
-                  href="https://ontonomics.com/es/"
                   />
     </url>
   
