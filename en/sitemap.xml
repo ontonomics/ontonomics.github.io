@@ -4,7 +4,7 @@
   
     <url>
       <loc>https://ontonomics.com/</loc>
-      <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+      <lastmod>2024-05-20T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -19,7 +19,7 @@
   
     <url>
       <loc>https://ontonomics.com/bitcoin/</loc>
-      <lastmod>2024-05-16T00:00:00+00:00</lastmod>
+      <lastmod>2024-05-20T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -30,6 +30,36 @@
                   hreflang="en"
                   href="https://ontonomics.com/bitcoin/"
                   />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/bitcoin/2024-05-20/</loc>
+      <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-05-20/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-05-20/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/bitcoin/2024-05-19/</loc>
+      <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/bitcoin/2024-05-18/</loc>
+      <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/bitcoin/2024-05-17/</loc>
+      <lastmod>2024-05-17T00:00:00+00:00</lastmod>
     </url>
   
     <url>
