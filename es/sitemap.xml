@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://ontonomics.com/es/bitcoin/2024-05-28/</loc>
-      <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+      <loc>https://ontonomics.com/es/bitcoin/2024-06-01/</loc>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
-                  href="https://ontonomics.com/bitcoin/2024-05-28/"
+                  href="https://ontonomics.com/bitcoin/2024-06-01/"
                   />
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
-                  href="https://ontonomics.com/es/bitcoin/2024-05-28/"
+                  href="https://ontonomics.com/es/bitcoin/2024-06-01/"
                   />
     </url>
   
     <url>
       <loc>https://ontonomics.com/es/bitcoin/</loc>
-      <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -34,7 +34,7 @@
   
     <url>
       <loc>https://ontonomics.com/es/</loc>
-      <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-01T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -44,6 +44,51 @@
                   rel="alternate"
                   hreflang="es"
                   href="https://ontonomics.com/es/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-05-31/</loc>
+      <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-05-31/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-05-31/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-05-30/</loc>
+      <lastmod>2024-05-30T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-05-30/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-05-30/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-05-28/</loc>
+      <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-05-28/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-05-28/"
                   />
     </url>
   
