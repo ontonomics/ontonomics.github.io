@@ -4,7 +4,7 @@
   
     <url>
       <loc>https://ontonomics.com/es/bitcoin/</loc>
-      <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -18,13 +18,13 @@
     </url>
   
     <url>
-      <loc>https://ontonomics.com/es/bitcoin/2024-06-05/</loc>
-      <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+      <loc>https://ontonomics.com/es/bitcoin/2024-06-09/</loc>
+      <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     </url>
   
     <url>
       <loc>https://ontonomics.com/es/</loc>
-      <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-09T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
@@ -35,6 +35,46 @@
                   hreflang="es"
                   href="https://ontonomics.com/es/"
                   />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-06-08/</loc>
+      <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-06-08/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-06-08/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-06-07/</loc>
+      <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-06-06/</loc>
+      <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-06-06/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-06-06/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/es/bitcoin/2024-06-05/</loc>
+      <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     </url>
   
     <url>

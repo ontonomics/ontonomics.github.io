@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://ontonomics.com/bitcoin/2024-06-03/</loc>
-      <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+      <loc>https://ontonomics.com/bitcoin/2024-06-08/</loc>
+      <lastmod>2024-06-08T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
-                  href="https://ontonomics.com/es/bitcoin/2024-06-03/"
+                  href="https://ontonomics.com/es/bitcoin/2024-06-08/"
                   />
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
-                  href="https://ontonomics.com/bitcoin/2024-06-03/"
+                  href="https://ontonomics.com/bitcoin/2024-06-08/"
                   />
     </url>
   
     <url>
       <loc>https://ontonomics.com/</loc>
-      <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-08T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -34,7 +34,7 @@
   
     <url>
       <loc>https://ontonomics.com/bitcoin/</loc>
-      <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-08T00:00:00+00:00</lastmod>
       <xhtml:link
                   rel="alternate"
                   hreflang="es"
@@ -44,6 +44,36 @@
                   rel="alternate"
                   hreflang="en"
                   href="https://ontonomics.com/bitcoin/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/bitcoin/2024-06-06/</loc>
+      <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-06-06/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-06-06/"
+                  />
+    </url>
+  
+    <url>
+      <loc>https://ontonomics.com/bitcoin/2024-06-03/</loc>
+      <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="es"
+                  href="https://ontonomics.com/es/bitcoin/2024-06-03/"
+                  />
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://ontonomics.com/bitcoin/2024-06-03/"
                   />
     </url>
   
